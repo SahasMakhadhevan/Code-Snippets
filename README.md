@@ -7,6 +7,7 @@
 	- Insertion Sort.py
 	- Linked List.py
 - Java
+	- Sierpinski Triangle
 - C++
 - C
 - C#
